@@ -1,0 +1,11 @@
+html {
+    font-family:"Brush Scripts MT";
+    color:rgb(133, 67, 67);
+}
+
+body {
+    background-color: rgb(231, 213, 169);
+}
+p{
+    font-size: 1.5rem;
+}
