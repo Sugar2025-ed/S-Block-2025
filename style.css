@@ -1,11 +1,29 @@
 html {
-    font-family:"Brush Scripts MT";
-    color:rgb(133, 67, 67);
+    font-family:"Brush Scripts M";
+    color:rgb(106, 46, 46);
 }
 
 body {
-    background-color: rgb(231, 213, 169);
+    background-color: rgb(121, 69, 69);
+    margin: 0;
 }
 p{
     font-size: 1.5rem;
+}
+.black {
+    color: rgb(84, 34, 26);
+    font-weight: 900;
+}
+#header {
+    background-image: url("https://i.pinimg.com/736x/1b/23/57/1b2357da7b83d696b1544c6d524eb0b8.jpg");
+    background-size: cover;
+    height: 50%;
+    color: rgb(99, 36, 47);
+    font-size: 2rem;
+    border-radius: 0 0 1.2em 1.2em;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 5%;
 }
